@@ -1,0 +1,19 @@
+Receipt Ref: Travel Bill: 159678
+Date Ref: 10-04-24
+Flight: Travelling Details
+Firstname: 
+Surname: 
+Address: 
+PostCode: 
+Telephone: 
+Mobile: 
+Email: 
+Standard: 
+Economy: 
+FirstClass: 1
+Standard: 0
+Economy: 0
+FirstClass: 0
+Paid: 
+SubTotal: 
+TotalCost: 
